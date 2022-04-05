@@ -1,0 +1,10 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  reconnect: false
+  pool: 5
+  database: allegory_dev_error
+  host: localhost
+  port: 35432
+  username: postgres
+  password: c1j4nk3n
